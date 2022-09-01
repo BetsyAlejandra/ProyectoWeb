@@ -1,0 +1,18 @@
+#barra {
+    position: absolute;
+    width: 1440px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+
+    background: transparent;
+}
+
+#carrito {
+    position: absolute;
+    left: 88.61%;
+    right: 9.32%;
+    top: 4.79%;
+    bottom: 92.48%;
+
+}
